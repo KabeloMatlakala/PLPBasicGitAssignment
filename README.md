@@ -1,4 +1,4 @@
-# PLP Basic Gi tAssignment
+# PLP Basic Git Assignment
 
 Task 1: Repository Setup
 1. GitHub Repository Creation:   
